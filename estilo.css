@@ -1,0 +1,107 @@
+body{
+    font-family:"Tahoma", sans-serif;
+color: #f5f5f5;
+text-align: center;
+border-top: 1px solid #D5D5D5;
+
+}
+h1,h2,p,h3{
+    color: #000000;
+    
+}
+
+.secao1{
+    border-top: 1px solid #D5D5D5;
+    padding: 50px;
+}
+
+.secao1 img{
+    width: 190px;
+    margin: 0;
+
+    
+}
+.secao1 h1{
+    
+   padding: 50px; 
+   font-size:32px;
+   
+}
+.secao1 h2{
+    font-size: 24px;
+}
+
+.secao1 p{
+    width: 930px;
+    margin: 15px auto 30px auto;
+    font-size: 16px;
+}
+
+.secao1 a{
+    padding: 10px 30px;
+    border-radius: 25px;
+    font-size: 14px;
+    border: 1px solid green;
+    text-decoration: none;
+    background-color: green;
+    color: #D5D5D5;
+    
+    
+
+}
+.secao2{
+    border-top: 1px solid #D5D5D5;
+    padding: 50px;
+}
+
+.secao2 h3{
+    font-size: 18px;
+    margin-top:10px;
+}
+.secao2 p{
+    font-size: 16px;
+    width: 930px;
+    margin: 15px auto 30px auto;
+}
+
+span{
+    font-weight: bold;
+}
+.secao3{
+    border-top: 1px solid #D5D5D5;
+    padding: 50px;
+}
+
+.secao3 img{
+    width: 190px;
+}
+.secao3 p{
+    font-size: 16px;
+    width: 930px;
+    margin: 15px auto 30px auto;
+}
+.secao3 h3{
+    font-size: 18px;
+    margin-top: 10px;
+}
+.secao4{
+    border-top: 1px solid #D5D5D5;
+    padding: 50px;
+}
+
+.secao4 p{
+    font-size: 16px;
+    width: 930px;
+    margin: 15px auto 30px auto;
+}
+.secao4 a{
+    font-size: 14px;
+    border-radius: 25px;
+    padding: 10px 30px;
+   border: 1px solid green;
+    text-decoration: none;
+    background-color: green;
+    color:#D5D5D5;
+    
+    
+}
